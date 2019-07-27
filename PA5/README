@@ -1,0 +1,24 @@
+Kiran Gunasekaran
+CMPS 101
+PA5
+
+Graph.c - A graph data structure that uses the DFS algorithm and the 
+	  list to perform Depth First Search.
+
+Graph.h - The header file for Graph.h
+
+GraphTest.c - File to test the functionality of Graph.c
+
+List.c - Abstract data type implemented as a doubly linked list
+	 that contains the Node class, constructors, access functions,
+	 manipulation functions, and other functions that defines the
+	 List object
+
+List.h - Header file containing all the function variables for initialization 
+	 for the List.c file.
+
+Makefile - File used to compile the source code and create executable 
+	   jar Lex file. Provided by Professor.
+
+FindComponents.c - Takes two file names as parameters, then uses Graph.c to 
+		   find the Strongly-Connected-Components of a graph.
